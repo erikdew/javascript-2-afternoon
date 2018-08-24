@@ -168,8 +168,8 @@ methodCollection.logHello = function(){
   Now call your alertHello and logHello methods.
 */
 
-methodCollection["alertHello"]();
-methodCollection["logHello"]();
+methodCollection.alertHello();
+methodCollection.logHello();
 
 
 
